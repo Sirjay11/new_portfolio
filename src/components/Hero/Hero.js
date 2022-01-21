@@ -8,13 +8,15 @@ const Hero = () => (
   <Section row nonpadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br/>
+        Welcome To <br />
         My Portfolio Website
       </SectionTitle>
       <SectionText>
-        The purpose of this website is to provide a medium interface to potential clients and employers to showcase my skills and abilities.
+        The purpose of this website is to provide a web-based interface to
+        potential clients and employers to conveniently showcase my skills and
+        abilities.
       </SectionText>
-      <Button onClick={()=>window.location = "https://google.com"}>
+      <Button onClick={() => (window.location = "#about")}>
         Learn More
       </Button>
     </LeftSection>

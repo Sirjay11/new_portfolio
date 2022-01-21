@@ -4,7 +4,7 @@ import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
 const Technologies = () => (
-  <Section>
+  <Section id="tech">
     <SectionDivider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
@@ -19,7 +19,7 @@ const Technologies = () => (
           <ListParagraph>
             Experience with
             <br />
-            React.js Next.js
+            HTML CSS JavaScript React.js Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -30,7 +30,7 @@ const Technologies = () => (
           <ListParagraph>
             Experience with
             <br />
-            Node.js MongoDB GraphQL
+            Python Node.js MongoDB GraphQL
           </ListParagraph>
         </ListContainer>
       </ListItem>
