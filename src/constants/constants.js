@@ -4,7 +4,7 @@ export const projects = [
     description:
       "My Blog that is designed to try to breakdown things that I have learned in the most easily digestible form. It was built with React, NextJs, GraphQl, and using GraphqlCms as a the backend.",
     image: "/images/blog-screenshot.png",
-    tags: ["GraphQL", "GraphQLCms", "React", "Nextjs","TailwindCSS"],
+    tags: ["GraphQL", "GraphQLCms", "React", "Nextjs", "TailwindCSS"],
     source: "https://james-blog1-lovat.vercel.app",
     visit: "https://github.com/Sirjay11/cms-blog",
     id: 0,
@@ -30,13 +30,13 @@ export const projects = [
     id: 2,
   },
   {
-    title: "Unichat",
+    title: "Tesla Landing Page",
     description:
-      "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-    image: "/images/4.jpg",
-    tags: ["React", "ChatEngine", "Firebase"],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "I built this landing page because I am inspired by Tesla's innovation.There innovation in engineering will kickstart innovation in many sectors of society to come for the betterment of mankind. ",
+    image: "/images/tesla-slider.png",
+    tags: ["JavaScript", "HTML", "CSS"],
+    source: "https://tesla-slider.vercel.app",
+    visit: "https://github.com/Sirjay11/tesla-slider",
     id: 3,
   },
 ];
