@@ -8,7 +8,7 @@ const Hero = () => (
   <Section row nonpadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To <br />
+        Hi James Alexander Here Welcome To <br />
         My Portfolio Website
       </SectionTitle>
       <SectionText>
