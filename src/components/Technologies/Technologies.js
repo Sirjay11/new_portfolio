@@ -19,7 +19,7 @@ const Technologies = () => (
           <ListParagraph>
             Experience with
             <br />
-            HTML CSS JavaScript React.js Next.js
+            WordPress WooCommerce Blocksy Kadence Elementor Shopify HTML CSS JavaScript React.js Next.js
           </ListParagraph>
         </ListContainer>
       </ListItem>

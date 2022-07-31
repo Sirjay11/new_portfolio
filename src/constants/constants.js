@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Sandboxstore",
+    description:
+      "Concept E-Commerce store with full funcionality as an online store. Built with WordPress using Woocommerce as a backend for store data also using Blocksy as a builder along side Kadence also as a builder.",
+    image: "/images/sandbox.png",
+    tags: ["WordPress", "WooCommerce", "Blocksy", "Kadence"],
+    source: "https://github.com/Sirjay11/wpsky",
+    visit: "https://dev-sandboxstore.pantheonsite.io/",
+    id: 0,
+  },
+  {
     title: "InANutshell",
     description:
       "My Blog that is designed to try to breakdown things that I have learned in the most easily digestible form. It was built with React, NextJs, GraphQl, and using GraphqlCms as a the backend.",
@@ -7,8 +17,9 @@ export const projects = [
     tags: ["GraphQL", "GraphQLCms", "React", "Nextjs", "TailwindCSS"],
     source: "https://github.com/Sirjay11/cms-blog",
     visit: "https://james-blog1-lovat.vercel.app",
-    id: 0,
+    id: 1,
   },
+
   {
     title: "Voice Activated Expense Tracker",
     description:
@@ -17,7 +28,17 @@ export const projects = [
     tags: ["React", "Speechly"],
     source: "https://github.com/Sirjay11/speech-expense-tracker",
     visit: "https://gallant-bhabha-096eab.netlify.app/",
-    id: 1,
+    id: 2,
+  },
+  {
+    title: "ShootsBa",
+    description:
+      "Concept E-Commerce store with full funcionality as an online store. Built with Shopify as a backend using the Dawn Theme as the front end. Implementations include a variety of custom code.  PASSWORD: owmpay",
+    image: "/images/shootsba.png",
+    tags: ["Shopify", "Dawn Theme", "Javscript", "HTML", "Css"],
+    source: "https://github.com/Sirjay11/shopify-demo-tail",
+    visit: "https://shootsba2.myshopify.com/",
+    id: 0,
   },
   // {
   //   title: "WebRTC App",
