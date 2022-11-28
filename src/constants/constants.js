@@ -1,12 +1,12 @@
 export const projects = [
   {
-    title: "Sandboxstore",
+    title: "Email Portfolio",
     description:
-      "Concept E-Commerce store with full funcionality as an online store. Built with WordPress using Woocommerce as a backend for store data also using Blocksy as a builder along side Kadence also as a builder.",
-    image: "/images/sandbox.png",
-    tags: ["WordPress", "WooCommerce", "Blocksy", "Kadence"],
-    source: "https://github.com/Sirjay11/wpsky",
-    visit: "https://dev-sandboxstore.pantheonsite.io/",
+      "I built this custom portfolio to showcase my knowledge of building custom coded email templates.I built these emails by copying emails pixel for pixel using figma to help with the design. ",
+    image: "/images/email-portfolio.png",
+    tags: ["HTML", "Css", "Javascript","Figma"],
+    source: "https://github.com/Sirjay11/paralaxportfolio",
+    visit: "https://paralaxportfolio.vercel.app/",
     id: 0,
   },
   {
@@ -38,8 +38,9 @@ export const projects = [
     tags: ["Shopify", "Dawn Theme", "Javscript", "HTML", "Css"],
     source: "https://github.com/Sirjay11/shopify-demo-tail",
     visit: "https://shootsba2.myshopify.com/",
-    id: 0,
+    id: 3,
   },
+  
   // {
   //   title: "WebRTC App",
   //   description:
@@ -51,6 +52,17 @@ export const projects = [
   //   id: 2,
   // },
   {
+    title: "Sandboxstore",
+    description:
+      "Concept E-Commerce store with full funcionality as an online store. Built with WordPress using Woocommerce as a backend for store data also using Blocksy as a builder along side Kadence also as a builder.",
+    image: "/images/sandbox.png",
+    tags: ["WordPress", "WooCommerce", "Blocksy", "Kadence"],
+    source: "https://github.com/Sirjay11/wpsky",
+    visit: "https://dev-sandboxstore.pantheonsite.io/",
+    id: 4,
+  },
+
+  {
     title: "Tesla Landing Page",
     description:
       "I built this landing page because I am inspired by Tesla's innovation.There innovation in engineering will kickstart innovation in many sectors of society to come for the betterment of mankind. ",
@@ -58,8 +70,8 @@ export const projects = [
     tags: ["JavaScript", "HTML", "CSS"],
     source: "https://github.com/Sirjay11/tesla-slider",
     visit: "https://tesla-slider.vercel.app",
-    id: 3,
-  },
+    id: 5,
+  }
 ];
 
 export const TimeLineData = [
